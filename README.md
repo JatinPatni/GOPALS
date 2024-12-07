@@ -42,8 +42,11 @@ We cover portfolio optimization across the following markets:
 
 ---
 
-## **Installation**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/JatinPatni/GOPALS.git
-   cd GOPALS
+
+Contact
+
+Author: Jatin Patni
+
+Email: jatinpatni@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/jatinpatni
