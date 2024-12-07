@@ -46,11 +46,6 @@ We conduct research in the following asset classes within the Indian financial m
 ## **How to Run**
 Follow these steps to execute the research process:
 
-### **1. Clone the Repository**
-```bash
-git clone https://github.com/JatinPatni/GOPALS.git
-cd GOPALS/india
-
 jupyter notebook notebooks/01_data_preprocessing.ipynb
 
 results/
@@ -60,6 +55,9 @@ results/
 
 
 Contact
+
 Author: Jatin Patni
+
 Email: jatinpatni@gmail.com
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jatinpatni/)
+
+LinkedIn: https://www.linkedin.com/in/jatinpatni/
