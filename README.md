@@ -93,7 +93,7 @@ I’m open to collaborations, suggestions, and feedback related to this project 
 
 - **GitHub Issues:** [Create a new issue here](https://github.com/JatinPatni/GOPALS/issues)
 - **Email:** [jatinpatni@gmail.com](mailto:jatinpatni@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/jatinpatni/)
+- **LinkedIn:** [https://www.linkedin.com/in/jatinpatni](https://www.linkedin.com/in/jatinpatni/)
 
 ---
 
