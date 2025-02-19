@@ -9,7 +9,8 @@ This repository supports ongoing research on portfolio optimization and market s
 
 1. **Robust Portfolio Optimization using GOPALS: Geospatial Optimization and Portfolio Allocation using Landscape Segmentation**  
    - *Authors:* Jatin Patni, Ritabrata Bhattacharyya
-   - *Published on:* [SSRN](https://ssrn.com/abstract=5057384)  
+   - *Published on:* [SSRN](https://ssrn.com/abstract=5057384)
+   - *Watch small tutorial on Youtube:* [Youtube tutorial on "Robust Portfolio Optimization using GOPALS"][https://www.youtube.com/watch?v=kQBO9GIl0Fo]
    - *Abstract:* Portfolio Optimization is an important area of research in Financial Investments. The traditional mean-variance framework for portfolio optimization is very sensitive to the estimation errors in the expectations of returns and covariances, and leads to suboptimal port folios. Even after using techniques such as shrinkage methods, robust optimization, and resampling methods, we are unable to address these limitations comprehensively. 
 This study introduces GOPALS: Geospatial Optimization and Portfolio Allocation using Landscape Segmentation, a simulation-based portfolio optimization framework designed to overcome these limitations and improve the robustness of the portfolio optimization process. 
 GOPALS methodology relies on simulating market scenarios and identifying ”stable regions” in the high-dimensional portfolio weight space (i.e. regions where portfolio allocations consistently perform favorably across varying market conditions) using clustering methods. By restricting the choice of portfolio allocations from such stable regions, the portfolio performance can be shown to be consistently favorable and robust to estimation errors.
